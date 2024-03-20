@@ -20,6 +20,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmauche001&show_icons=true&locale=en&layout=compact" alt="emmauche001" /></p>
 
-### Blogs posts
+### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
