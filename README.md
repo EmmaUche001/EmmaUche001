@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Uchenna</h1>
-<h3 align="center">I am a dedicated and results-oriented security analyst with a strong commitment to continuous learning, seeking feedback, and enhancing technical solutions to strengthen security posture and mitigate risks./h3>
+<h3 align="center">I am a dedicated and results-oriented security analyst with a strong commitment to continuous learning, seeking feedback, and enhancing technical solutions to strengthen security posture and mitigate risks.h3>
 
 
 - 📫 How to reach me **emmanueluchenna.onyeka@gmail.com**
