@@ -46,6 +46,19 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmauche001&show_icons=true&locale=en&layout=compact" alt="emmauche001" /></p>
 
-### Latest blog posts
+### Linkedin articles
+
+<p align="left">
+  <a href="https://www.linkedin.com/pulse/exploiting-human-firewall-psychology-social-emmanuel-uchenna-izmje/?trackingId=42nv01jhQyuT28vWwYI60Q%3D%3D" target="_blank" rel="noreferrer"> 
+    Exploiting the Human Firewall: The Psychology of Social Engineering
+  </a><br/>
+  <a href="https://www.linkedin.com/pulse/principle-least-privilege-emmanuel-uchenna-fc56f/?trackingId=L%2F0%2BXutkxrittYdE6YQMqA%3D%3D" target="_blank" rel="noreferrer"> 
+    Principle of least privilege
+  </a><br/>
+  <a href="https://www.linkedin.com/pulse/cybersecurity-lessons-from-past-what-loveletter-equifax-uchenna-bdhfe/?trackingId=j54v83aNygxKGhcbN%2Fy%2F1A%3D%3D" target="_blank" rel="noreferrer"> 
+    Cybersecurity lessons from the past: What Loveletter and Equifax teach us about modern threats.
+  </a>
+</p>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
