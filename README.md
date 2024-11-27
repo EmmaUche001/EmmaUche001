@@ -6,6 +6,11 @@
 
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="www.linkedin.com/in/emmanuel-uchenna-2a91311b2" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
