@@ -49,6 +49,9 @@
 ### Linkedin articles
 
 <p align="left">
+  <a href="https://medium.com/@emmanueluchenna.onyeka/building-a-soc-analyst-home-lab-environment-setup-limacharlie-configuration-and-sliver-c2-3971e3522e06" target="_blank" rel="noreferrer"> 
+    Building a SOC Analyst Home Lab: Environment Setup, LimaCharlie Configuration, and Sliver (C2) Implementation
+  </a><br/>
   <a href="https://www.linkedin.com/pulse/exploiting-human-firewall-psychology-social-emmanuel-uchenna-izmje/?trackingId=42nv01jhQyuT28vWwYI60Q%3D%3D" target="_blank" rel="noreferrer"> 
     Exploiting the Human Firewall: The Psychology of Social Engineering
   </a><br/>
