@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Uchenna</h1>
-<h3 align="center">I am a dedicated and results-oriented security analyst with a strong commitment to continuous learning, seeking feedback, and enhancing technical solutions to strengthen security posture and mitigate risks. </h3>
+<h3 align="center">Dedicated cybersecurity analyst with a strong computer science foundation and a Google Cybersecurity Certification, I’m passionate about fortifying digital defenses. Skilled in Security Information and Event Management (SIEM) tools like Splunk, I bring hands-on experience in vulnerability assessments, incident response, and threat intelligence to protect critical systems. I’m eager to deepen my knowledge of endpoint security, system fortification, and incident response strategies, ensuring compliance with regulatory frameworks such as NIST, OWASP, SOC 2, and ISO 27001. Dedicated to continuous learning and ethical cybersecurity practices, I am eager to collaborate with dynamic teams to bolster organizational resilience against evolving cyber threats. </h3>
 
 
 - 📫 How to reach me **emmanueluchenna.onyeka@gmail.com**
